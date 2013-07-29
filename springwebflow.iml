@@ -57,6 +57,7 @@
     <orderEntry type="library" name="Maven: org.springframework:spring-jdbc:3.0.7.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-tx:3.0.7.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.security:spring-security-core:3.1.4.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.security:spring-security-config:3.1.4.RELEASE" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.springframework:spring-test:3.2.0.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.webflow:spring-webflow:2.3.2.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.webflow:spring-binding:2.3.2.RELEASE" level="project" />
